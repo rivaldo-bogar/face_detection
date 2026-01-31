@@ -1,4 +1,4 @@
-# 📸 OpenCV Project: [Nama Project Kamu, misal: Face Detection]
+# 📸 OpenCV Project: Face Detection
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
