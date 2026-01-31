@@ -1,4 +1,4 @@
-<img width="757" height="371" alt="image" src="https://github.com/user-attachments/assets/d7da1d99-ca31-44bb-b977-92023a2d0d0b" /># 📸 OpenCV Project: [Nama Project Kamu, misal: Face Detection]
+# 📸 OpenCV Project: [Nama Project Kamu, misal: Face Detection]
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
