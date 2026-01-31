@@ -37,5 +37,5 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di lokal:
    ```
 5. **Jalankan program**
    ```bash
-   python detec.py
+   python detect.py
    
